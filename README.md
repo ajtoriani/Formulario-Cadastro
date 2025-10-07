@@ -4,6 +4,11 @@
 
 Um projeto simples em HTML que cria uma página com um formulário de cadastro. O formulário coleta informações básicas do usuário, como nome, e-mail, senha, data de nascimento e gênero, além de um campo para aceitar os termos de uso.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
+
 ##  Funcionalidades
 
 *   **Campos de Formulário:** Inclui campos de texto (`nome`), e-mail, senha, data (`date`), botões de rádio (`gênero`) e uma caixa de seleção (`termos`).
